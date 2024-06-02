@@ -1,5 +1,3 @@
-# Test task for the position of intern/junior backend developer in the Auto unit
-
 ## Task:
 
 We need to make an HTTP service to shorten URLs like [Bitly](https://bitly.com/) and other services.
